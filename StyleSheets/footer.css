@@ -1,0 +1,21 @@
+.footer{
+    height: 200px;
+    border-style: groove;
+    background-color: #9c9c9c;
+    color: #edeef0;
+    margin-top: 50px;
+    padding: 40px 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.gotop{
+    text-decoration: none;
+    color: aliceblue;
+    border:2px solid rgb(243, 189, 90);
+    padding: 7px;
+    border-radius: 45px;
+}
+.gotop:hover{
+    color:orange;
+    background-color: #edeef0;
+}
